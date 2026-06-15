@@ -8,9 +8,11 @@ We build a complete machine learning pipeline: loading and exploring the data, p
 The model achieves 92.03% accuracy on the test set.
 
 ## Project Structure
+```
 mnist/
 ├── mnist.ipynb
 └── README.md
+```
 
 ## Prerequisites
 - Python 3.10+
