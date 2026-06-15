@@ -42,4 +42,5 @@ Open `mnist.ipynb` in VS Code and run all cells in order.
 
 
 Note 1: The dataset is downloaded automatically from OpenML on first run — no manual download required.
+
 Note 2: SSL verification is disabled in the notebook to work around a macOS certificate issue. This is acceptable for a local learning project but should not be used in production.
