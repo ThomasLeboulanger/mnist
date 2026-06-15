@@ -23,7 +23,7 @@ mnist/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/ThomasLeboulanger/mnist
-cd MNIST
+cd mnist
 ```
 
 ### 2. Create and activate a virtual environment
