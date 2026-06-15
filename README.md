@@ -38,7 +38,7 @@ pip install numpy matplotlib scikit-learn
 ```
 
 ### 4. Open the notebook
-Open `notebooks/mnist.ipynb` in VS Code and run all cells in order.
+Open `mnist.ipynb` in VS Code and run all cells in order.
 
 
 Note 1: The dataset is downloaded automatically from OpenML on first run — no manual download required.
