@@ -39,4 +39,6 @@ pip install numpy matplotlib scikit-learn
 ### 4. Open the notebook
 Open `notebooks/mnist.ipynb` in VS Code and run all cells in order.
 
-Note: The dataset is downloaded automatically from OpenML on first run — no manual download required.
+
+Note 1: The dataset is downloaded automatically from OpenML on first run — no manual download required.
+Note 2: SSL verification is disabled in the notebook to work around a macOS certificate issue. This is acceptable for a local learning project but should not be used in production.
