@@ -5,12 +5,11 @@ This project implements a handwritten digit recognition system using the MNIST d
 
 We build a complete machine learning pipeline: loading and exploring the data, preprocessing, training a Logistic Regression classifier, and evaluating its performance using accuracy score and confusion matrix.
 
-The model achieves 92.17% accuracy on the test set.
+The model achieves 92.03% accuracy on the test set.
 
 ## Project Structure
-mnist-project/
-├── notebooks/
-│   └── mnist.ipynb
+mnist/
+├── mnist.ipynb
 └── README.md
 
 ## Prerequisites
@@ -21,7 +20,7 @@ mnist-project/
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ThomasLeboulanger/mnist
 cd MNIST
 ```
 
